@@ -1,0 +1,29 @@
+Motivering för att Använda Både Dictionary Attack och Enkel Brute Force-lösenordsknäckning i Python:
+
+Att implementera både en dictionary attack och en enkel brute force-lösenordsknäckning i Python ger en mer omfattande strategi för att bedöma lösenordsstyrka och förbättra den övergripande säkerheten på en webbplats.
+
+Bedöma Lösenordsstyrka:
+Dictionary Attack: Genom att använda en dictionary attack kan man utvärdera om användarna väljer vanliga och förutsägbara lösenord. Om lösenordet finns i enkla ordlistor eller är enkelt gissningsbart, kan detta indikera en svaghet som kräver åtgärd.
+
+Enkel Brute Force: En enkel brute force-metod kan identifiera lösenord som består av vanliga mönster eller enkla kombinationer, vilket hjälper till att bedöma styrkan hos valda lösenord.
+
+Användarinriktad Feedback:
+Dictionary Attack: Om en användare försöker använda ett lösenord som finns i en dictionary, kan man ge dem en varning om att välja ett starkare lösenord för att förbättra deras kontos säkerhet.
+
+Enkel Brute Force: Likaså kan man varna användare om att deras lösenord är sårbart för enkla brute force-attacker, vilket kan uppmana dem att välja starkare alternativ.
+
+Förhindra Användning av Svaga Lösenord:
+Genom att kombinera dessa två metoder kan man skapa en mer heltäckande strategi för att förhindra användning av svaga och förutsägbara lösenord på sin webbplats.
+
+Man kan ställa upp regler och krav för lösenordskomplexitet baserat på resultaten av dessa tester.
+
+Förbättra Generell Säkerhet:
+Att aktivt identifiera och adressera svaga lösenord bidrar till den övergripande säkerheten på webbplatsen genom att minska risken för kontointrång och obehörig åtkomst.
+Utbildning av Användare:
+Genom att integrera feedback från dessa tester kan man också utbilda användarna om vikten av starka lösenord och hjälpa dem att förstå riskerna med att välja svaga eller förutsägbara lösenord.
+Sammanfattningsvis möjliggör kombinationen av en dictionary attack och en enkel brute force-lösenordsknäckning en proaktiv och användarinriktad strategi för att förbättra lösenordssäkerheten på en webbplats och minska risken för kontointrång.
+
+
+
+
+
